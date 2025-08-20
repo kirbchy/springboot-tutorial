@@ -12,6 +12,10 @@ This project is a simple web application built with Spring Boot and Thymeleaf. I
    ```
 4. Go to [http://localhost:8080](http://localhost:8080)
 
+# Requirements
+
+Java version 17.
+
 ## Credits
 
 Developed by Sebastian Gomez.
